@@ -1,6 +1,7 @@
 # T-DAO-White-Paper
 T DAO - Non-Profit - MVX 
-	1.	Purpose Statement
+
+1.	Purpose Statement
 T DAO aims to set a new benchmark for transparency in the non-profit sector, showing how blockchain technology can create an accountable, community-driven model for charitable work. Through the Tears (2TT) token, T DAO seeks to empower members to direct funding, vote on campaigns, and support meaningful causes, all within a transparent, decentralized framework. T DAO envisions becoming a model for blockchain-based charities, demonstrating how decentralized governance can lead to impactful change.
 	2.	Tokenomics Overview - Tears (2TT) Token
 The Tears 2TT (2Tears Token) is a meme-based cryptocurrency within the MultiversX ecosystem, launched on the MemeversX platform. As a humorous, community-driven asset with a supply of two trillion tokens, Tears 2TT emphasizes fun rather than investment value. Introduced with a “fair launch” concept, Tears 2TT has locked liquidity to prevent rug pulls, providing a safer environment for participants.
